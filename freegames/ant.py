@@ -1,4 +1,5 @@
-"""Ant, simple animation demo.
+"""Ant, simple animation demo. 
+
 
 Exercises
 
